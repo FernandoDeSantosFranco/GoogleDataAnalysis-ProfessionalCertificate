@@ -20,7 +20,7 @@ Course program (8 courses)
 
 * 8. Google Computational Data Analysis Course Final Project: Complete a case study (this project)
 
-The Final Project of the Computational Data Analysis course is an opportunity to use many of the skills and competencies acquired during the 8 courses. I invested many hours in the program, so completing this capstone project is like a big celebration of your learning achievements.
+The Final Project of the Computational Data Analysis course is an opportunity to use many of the skills and competencies acquired during the 8 courses. I invested many hours in the program, so completing this capstone project is like a big celebration of my learning achievements.
 
 ### Data used for this project:
 
