@@ -1,4 +1,4 @@
-# Google Computational Data Analysis Course Final Project: Complete a Case Study
+# Google Computational Data Analysis Professional Certificate - Final Project: Complete a Case Study
 
 ### This project is part of the 8-course Google Data Analysis Professional Certificate, and its mandatory to successfully complete the certificate
 
